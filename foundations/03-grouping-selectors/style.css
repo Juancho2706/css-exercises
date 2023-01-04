@@ -1,0 +1,13 @@
+.elemento1,
+.elemento2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times News Roman", sans-serif;
+}
+
+.elemento1{
+    background-color: #000000;
+    color: white;
+}
+.elemento2{
+    background-color: #ffff00;
+}
